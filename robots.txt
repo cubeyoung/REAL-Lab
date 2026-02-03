@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://cubeyoung.github.io/REAL-Lab/sitemap.xml
